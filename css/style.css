@@ -137,7 +137,7 @@ font-family: 'Roboto', sans-serif;
   --ltn__heading-color: #071c1f;
   --ltn__paragraph-color: #000000;
   --ltn__heading-font: "Roboto", sans-serif;
-  --ltn__body-font: "Playfair Display", serif;
+  --ltn__body-font: 'Roboto', sans-serif;    /* "Playfair Display", serif; */
   /* Footer ACD2D8 8CB2B2  */
   --ltn__color-1: #8cb2b2;
   --ltn__color-2: #acd2d8;
